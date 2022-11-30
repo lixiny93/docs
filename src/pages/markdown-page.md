@@ -1,7 +1,7 @@
 ---
-title: Markdown page example
+title: 隐藏页面
 ---
 
-# Markdown page example
+# 这是一个十分隐蔽的页面
 
-You don't need React to write simple standalone pages.
+
