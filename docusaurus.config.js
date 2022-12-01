@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/a.svg',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/lixiny93/docs/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/lixiny93/docs/tree/main/',
           blogTitle: '博客',
           blogDescription: '一个博客',
           blogSidebarTitle: '所有博客'
@@ -61,10 +61,7 @@ const config = {
     ({
       navbar: {
         title: 'TianriWebSite',
-        logo: {
-          alt: 'A WebSite for Tianri',
-          src: 'img/logo.svg',
-        },
+        
         items: [
           {
             type: 'doc',

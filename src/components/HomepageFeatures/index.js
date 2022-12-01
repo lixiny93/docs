@@ -4,11 +4,11 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '没什么的',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'TianriNB',
+    Svg: require('@site/static/img/a.svg').default,
     description: (
       <>
-        没什么的
+        Tianri天日君NB
       </>
     ),
   }
