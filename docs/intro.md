@@ -6,8 +6,8 @@ sidebar_position: 1
 
 ---
 
-Welcome to TianriWebSite
+Welcome to TianriWebSite!
 
-欢迎来到Tianri的网站
+欢迎来到Tianri的网站！
 
 这是一个使用Docusaurus制作的网站！
